@@ -1,0 +1,13 @@
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\DroneEHSimulator.exe.config
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\DroneEHSimulator.exe
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\DroneEHSimulator.pdb
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\obj\Debug\DroneEHSimulator.exe
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\obj\Debug\DroneEHSimulator.pdb
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\EventHubDemo.Common.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\EventHubDemo.Common.pdb
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneEHSimulator\obj\Debug\DroneEH.Sender.csprojResolveAssemblyReference.cache

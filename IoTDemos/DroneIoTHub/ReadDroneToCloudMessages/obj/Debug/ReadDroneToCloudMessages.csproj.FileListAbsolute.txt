@@ -1,0 +1,9 @@
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\bin\Debug\ReadDroneToCloudMessages.exe.config
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\bin\Debug\ReadDroneToCloudMessages.exe
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\bin\Debug\ReadDroneToCloudMessages.pdb
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\obj\Debug\ReadDroneToCloudMessages.csprojResolveAssemblyReference.cache
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\obj\Debug\ReadDroneToCloudMessages.exe
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\ReadDroneToCloudMessages\obj\Debug\ReadDroneToCloudMessages.pdb

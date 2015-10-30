@@ -1,0 +1,12 @@
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\SimulatedDrone.exe.config
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\obj\Debug\SimulatedDrone.csprojResolveAssemblyReference.cache
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\SimulatedDrone.exe
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\SimulatedDrone.pdb
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\Microsoft.Azure.Amqp.pdb
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\obj\Debug\SimulatedDrone.exe
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\DroneIoTHub\SimulatedDrone\obj\Debug\SimulatedDrone.pdb

@@ -1,0 +1,8 @@
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\bin\Debug\EventHubDemo.Common.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\bin\Debug\EventHubDemo.Common.pdb
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\obj\Debug\DroneEH.Common.csprojResolveAssemblyReference.cache
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\obj\Debug\EventHubDemo.Common.dll
+C:\Users\guadac\Desktop\Drones_CloudDevelop\Code\EventHubDemo.Common\EventHubDemo.Common\obj\Debug\EventHubDemo.Common.pdb
