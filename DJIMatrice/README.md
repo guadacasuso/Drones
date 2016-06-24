@@ -14,3 +14,7 @@ https://developer.dji.com/onboard-sdk/
 
 ##DJI Main Repo with Instalation Guides and code samples:
 https://github.com/dji-sdk/Onboard-SDK 
+
+## Y also recommend you to read the FQA (You should)
+https://github.com/dji-sdk/Onboard-SDK/blob/3.1/doc/en/FAQ_en.md#5-what-does-onboard-device-mean 
+
