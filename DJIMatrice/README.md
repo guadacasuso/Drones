@@ -2,9 +2,11 @@
 
 <img src="http://blogrepo.blob.core.windows.net/images/img_drone.png" alt="Matrice" />
 
-##What is the Matrice 100?  Is DJI Development platform 
+##What is the Matrice 100?  
+Is a drone Development platform developed by DJI 
 
-##What can I do  with it? Even when you can develop with the MobileSDK that DJI has as part of its development platform, the Matrice strengh is the possibility to connect and onboard device to the matrice, to talk with the autopilot and here is where the OnboardSDK come to place. 
+##What can I do  with it? 
+Even when you can develop with the MobileSDK that DJI has as part of its development platform, the Matrice strengh is the possibility to connect and onboard device to the matrice, to talk with the autopilot and here is where the OnboardSDK come to place. 
 
 
 ##Main Site: 
