@@ -1,3 +1,4 @@
 # drones
-Hi there!
-You will find here the code samples of my demos in presentations and projects 
+This is my journey Developing software for Drone Projects and other Drone Experiments... 
+
+
