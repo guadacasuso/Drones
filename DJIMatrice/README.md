@@ -15,6 +15,26 @@ https://developer.dji.com/
 ##DJI Main Repo with Instalation Guides and code samples:
 https://github.com/dji-sdk 
 
+## Mobile SDK:  
+https://github.com/dji-sdk/Mobile-SDK-Android 
+
 ## Y also recommend you to read the FQA (You should)
 https://github.com/dji-sdk/Onboard-SDK/blob/3.1/doc/en/FAQ_en.md#5-what-does-onboard-device-mean 
+
+#Scenario 1 - Android Server exposing the SDK Services so you can control and get Telemetry and VideoFeed from the drone.
+For this you need to install [Android Studio:] (https://developer.android.com/studio/index.html) and the last version of JDK.
+You will also need the DJI Android Mobile SDK and to swing by [the documentation that DJI released] (https://developer.dji.com/mobile-sdk/documentation/introduction/index). 
+. 
+Great sample codes are in [their Github repo] (https://github.com/dji-sdk/Mobile-SDK-Android) too.  
+ 
+
+
+
+
+
+
+
+
+
+
 
