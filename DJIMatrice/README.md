@@ -26,9 +26,15 @@ You can consume this service by any device or app externally. IoT scenarios can 
 
 ##You need to install:
 [Android Studio] (https://developer.android.com/studio/index.html) and the last version of JDK.
-DJI Android Mobile SDK 
+[DJI Android Mobile SDK] (http://developer.dji.com/mobile-sdk/downloadsl)
+
+##You need to Register:
+your App and generate a Developer profile in case you dont have one. 
+
+
+
 ##Swing by:
-[The documentation that DJI released] (https://developer.dji.com/mobile-sdk/documentation/introduction/index). 
+[The documentation that DJI released] (https://developer.dji.com/mobile-sdk/documentation/introduction/index). You probably want to review the SDK Integration sample to start. 
 Great sample codes are in [their Github repo] (https://github.com/dji-sdk/Mobile-SDK-Android) 
  
 
